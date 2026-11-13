@@ -1,0 +1,4 @@
+Application Name: Jenkins Learning
+Environment: Development
+Version: 1.0
+Status: Ready for CI/CD
